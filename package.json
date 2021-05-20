@@ -1,0 +1,31 @@
+{
+  "name": "vuejs-blog",
+  "version": "1.0.0",
+  "description": "first vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcHoutreille/vueJS-blog.git"
+  },
+  "keywords": [
+    "vuejs",
+    "blog"
+  ],
+  "author": "jim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcHoutreille/vueJS-blog/issues"
+  },
+  "homepage": "https://github.com/MarcHoutreille/vueJS-blog#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "tailwindcss": "^2.1.2"
+  }
+}
